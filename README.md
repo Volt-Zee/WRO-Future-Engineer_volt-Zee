@@ -1,2 +1,2 @@
 # VoltZee
-![Team Logo](https://github.com/Volt-Zee/WRO-Future-Engineer_volt-Zee/blob/00f6f3e9285e310cf5dc39ec83f375167a779a35/volt%20zee%20logo.PNG)
+![Team Logo](https://github.com/Volt-Zee/WRO-Future-Engineer_volt-Zee/blob/16c4e55c3521c5d656a7622198a781e0a65f8976/volt%20zee%20logo.PNG)
