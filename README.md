@@ -1,1 +1,2 @@
-# WRO-Future-Engineer_volt-Zee
+# VoltZee
+![Team Logo](others/volt_zee_logo.png)
