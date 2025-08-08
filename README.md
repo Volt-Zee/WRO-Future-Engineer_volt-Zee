@@ -1,4 +1,4 @@
-# WRO Future Engineer Project- Volt-Zee
+# WRO Future Engineer Project - Volt Zee
 **Team: Volt Zee**
 
 **Members: Zainab Khan, Ayesha Faizi, Ayesha Khan**
