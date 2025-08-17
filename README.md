@@ -16,7 +16,6 @@ We, Zainab Khan, Ayesha Faizi, and Ayesha Khan participating in the WRO 2025 Fut
     * [Power Management](#power-management)
     * [Sense Management](#sense-management)
     * [Wiring Diagram](#wiring-diagram)
-    * [Bill of Materials](#bill-of-materials)
 * [Obstacle Management](#obstacle-management)
 * [Photos](#photos)
 * [Videos](#videos)
