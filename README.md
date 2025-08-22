@@ -9,10 +9,10 @@
 
 [![WRO](https://img.shields.io/badge/WRO-000000?style=for-the-badge&logoColor=white)](https://wro-association.org/)
 [![Future Engineers](https://img.shields.io/badge/Future%20Engineers-800080?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://wro-association.org/wp-content/uploads/WRO-2025-Future-Engineers-Self-Driving-Cars-General-Rules.pdf)
-[![YouTube](https://img.shields.io/badge/YouTube-000000?logo=youtube&style=for-the-badge&logoColor=white)](https://youtu.be/J9yfzNwVzeI)
-[![Opening Race](https://img.shields.io/badge/%E2%96%B6%20Opening%20Race-800080?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/J9yfzNwVzeI)
-[![YouTube](https://img.shields.io/badge/YouTube-000000?logo=youtube&style=for-the-badge&logoColor=white)](https://youtu.be/2DCEz0GiSBo)
-[![Obstacle Race](https://img.shields.io/badge/%E2%96%B6%20Obstacle%20Race-800080?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/2DCEz0GiSBo)
+[![YouTube](https://img.shields.io/badge/YouTube-000000?logo=youtube&style=for-the-badge&logoColor=white)](https://youtube.com/shorts/orExwwO6-ZA?feature=share)
+[![Opening Race](https://img.shields.io/badge/%E2%96%B6%20Opening%20Race-800080?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/shorts/orExwwO6-ZA?feature=share)
+[![YouTube](https://img.shields.io/badge/YouTube-000000?logo=youtube&style=for-the-badge&logoColor=white)](https://youtube.com/shorts/orExwwO6-ZA?feature=share)
+[![Obstacle Race](https://img.shields.io/badge/%E2%96%B6%20Obstacle%20Race-800080?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/shorts/orExwwO6-ZA?feature=share)
 
 **This repository serves as the official documentation for our team's participation in the WRO 2025 Future Engineers competition. It contains all essential project assets, including source code, CAD models, and the engineering journal detailing the design, development, and testing of our self-driving vehicle.** 
 
@@ -196,10 +196,10 @@ This fusion allowed robot to:
 ---
 
 ## Videos
-[![YouTube](https://img.shields.io/badge/YouTube-000000?logo=youtube&style=for-the-badge&logoColor=white)](https://youtu.be/J9yfzNwVzeI)
-[![Opening Race](https://img.shields.io/badge/%E2%96%B6%20Opening%20Race-800080?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/J9yfzNwVzeI)
-[![YouTube](https://img.shields.io/badge/YouTube-000000?logo=youtube&style=for-the-badge&logoColor=white)](https://youtu.be/2DCEz0GiSBo)
-[![Obstacle Race](https://img.shields.io/badge/%E2%96%B6%20Obstacle%20Race-800080?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/2DCEz0GiSBo)
+[![YouTube](https://img.shields.io/badge/YouTube-000000?logo=youtube&style=for-the-badge&logoColor=white)](https://youtube.com/shorts/orExwwO6-ZA?feature=share)
+[![Opening Race](https://img.shields.io/badge/%E2%96%B6%20Opening%20Race-800080?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/shorts/orExwwO6-ZA?feature=share)
+[![YouTube](https://img.shields.io/badge/YouTube-000000?logo=youtube&style=for-the-badge&logoColor=white)](https://youtube.com)
+[![Obstacle Race](https://img.shields.io/badge/%E2%96%B6%20Obstacle%20Race-800080?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com)
 
 ---
 
