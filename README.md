@@ -70,7 +70,7 @@ Robot is equipped with **6 sensors** in total (**5 distance sensors + 1 camera**
 ---
 
 ### Wiring Diagram
-📌 (Insert wiring diagram image here)  
+<img src="https://raw.githubusercontent.com/Volt-Zee/WRO-Future-Engineer_volt-Zee/main/schemes/Wiring%20diagram.jpg" alt="Wiring diagram" width="500">
 
 ---
 
@@ -82,7 +82,7 @@ In the **Obstacle Challenge**, the robot used **4 ultrasonic sensors + JSN-SR04T
 - The **Slave Arduino** controlled motor behavior in real time (slowing, steering, bypassing obstacles)  
 - The **Master Arduino** coordinated safe resumption of speed and path alignment  
 
-✅ Result: Obstacle handling was **consistent, adaptive, and reliable**.  
+Result: Obstacle handling was **consistent, adaptive, and reliable**.  
 
 ---
 
@@ -189,9 +189,8 @@ This fusion allowed robot to:
   </tr>
 </table>
 
-![Professional team photo](https://raw.githubusercontent.com/Volt-Zee/WRO-Future-Engineer_volt-Zee/main/t-photos/professional%20photo.jpeg)
-
-![Funny team photo](https://raw.githubusercontent.com/Volt-Zee/WRO-Future-Engineer_volt-Zee/main/t-photos/Funny%20photo.jpeg)
+<img src="https://raw.githubusercontent.com/Volt-Zee/WRO-Future-Engineer_volt-Zee/main/t-photos/professional%20photo.jpeg" alt="Professional team photo" width="800">
+<img src="https://raw.githubusercontent.com/Volt-Zee/WRO-Future-Engineer_volt-Zee/main/t-photos/Funny%20photo.jpeg" alt="Funny team photo" width="700">
 
 ---
 
