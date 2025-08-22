@@ -55,9 +55,9 @@ Connections are maintained using Dupont jumper wires, while PCB prototyping boar
 
 ---
 
-### Sense & Awareness
+### Sense Management
 
-E-Ro is equipped with **6 sensors** in total (**6 distance sensors + 1 camera**):
+Robot is equipped with **6 sensors** in total (**5 distance sensors + 1 camera**):
 
 - **4 Ultrasonic Sonar Sensors** → Obstacle detection from multiple angles  
 - **1 JSN-SR04T Waterproof Sensor** → Reliable detection in variable environments  
@@ -76,7 +76,7 @@ E-Ro is equipped with **6 sensors** in total (**6 distance sensors + 1 camera**)
 
 ## Obstacle Management
 
-In the **Obstacle Challenge**, the robot used **4 ultrasonic sensors + JSN-SR04T waterproof sensor** to detect and bypass obstacles.  
+In the **Obstacle Challenge**, the robot used **4 ultrasonic sensors + JSN-SR04T waterproof sensor + Pixi Cam** to detect and bypass obstacles.  
 
 - Sensors were mounted on elevated 3D-printed brackets to avoid ground reflection errors  
 - The **Slave Arduino** controlled motor behavior in real time (slowing, steering, bypassing obstacles)  
@@ -92,7 +92,7 @@ In the **Open Challenge**, the robot focused on **task-based navigation**:
 
 - **Pixy2 Camera** detected markers, lines, and objects on the field  
 - **Ultrasonic + Waterproof sensors** ensured safety  
-- **Master Arduino** handled vision + ToF inputs  
+- **Master Arduino** handled vision  
 - **Slave Arduino** executed motor commands  
 
 This fusion allowed robot to:  
@@ -121,7 +121,7 @@ This fusion allowed robot to:
 **💻 Ayesha Faizi – Software & Sensor Integration**  
 - Programmed master–slave Arduino communication  
 - Slave: Ultrasonic + waterproof + motors  
-- Master: Pixy2 + ToF + logic  
+- Master: Pixy2 + logic  
 - Calibrated ranges, tuned motor response  
 
 **💼 Zainab Khan – Documentation, Testing & Strategy**  
@@ -162,7 +162,36 @@ This fusion allowed robot to:
 ---
 
 ## Photos
-![Alt Text](path/to/your/image.jpg)
+<table>
+  <tr>
+    <td align="center">
+      <img src="v-photo/front.jpeg" alt="Front view of the robot" width="300">
+    </td>
+    <td align="center">
+      <img src="v-photo/back.jpeg" alt="Back view of the robot" width="300">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="v-photo/right.jpeg" alt="Right view of the robot" width="300">
+    </td>
+    <td align="center">
+      <img src="v-photo/left.jpeg" alt="Left view of the robot" width="300">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="v-photo/top.jpeg" alt="Top view of the robot" width="300">
+    </td>
+    <td align="center">
+      <img src="v-photo/bottom.jpeg" alt="Bottom view of the robot" width="300">
+    </td>
+  </tr>
+</table>
+
+![Professional team photo](https://raw.githubusercontent.com/Volt-Zee/WRO-Future-Engineer_volt-Zee/main/t-photos/professional%20photo.jpeg)
+
+![Funny team photo](https://raw.githubusercontent.com/Volt-Zee/WRO-Future-Engineer_volt-Zee/main/t-photos/Funny%20photo.jpeg)
 
 ---
 
