@@ -206,10 +206,9 @@ This fusion allowed robot to:
 This repository provides:  
 - Source code for Arduino (master & slave)  
 - Circuit wiring diagrams  
-- CAD models for 3D-printed mounts  
 - Documentation & component lists  
 
-So others can **replicate, test, and improve** upon our design.  
+So others can **test, and improve** upon our design.  
 
 
 
