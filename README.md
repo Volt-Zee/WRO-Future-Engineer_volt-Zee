@@ -20,3 +20,9 @@ We, Zainab Khan, Ayesha Faizi, and Ayesha Khan participating in the WRO 2025 Fut
 * [Photos](#photos)
 * [Videos](#videos)
 * [Enabling Reproducibility](#enabling-reproducibility)
+<h2>Our Team</h2>
+<p align="center">
+  <img src="t photos.jpg"
+       alt="Team Volt-Zee — WRO Future Engineers 2025"
+       width="600">
+</p>
