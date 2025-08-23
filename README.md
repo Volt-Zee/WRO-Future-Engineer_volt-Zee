@@ -10,9 +10,7 @@
 
 [![YouTube](https://img.shields.io/badge/YouTube-000000?logo=youtube&style=for-the-badge&logoColor=white)](https://youtube.com/shorts/orExwwO6-ZA?feature=share)[![Opening Race](https://img.shields.io/badge/%E2%96%B6%20Open%20Challenge-800080?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/shorts/orExwwO6-ZA?feature=share)
 [![YouTube](https://img.shields.io/badge/YouTube-000000?logo=youtube&style=for-the-badge&logoColor=white)](https://youtube.com/shorts/orExwwO6-ZA?feature=share)[![Obstacle Race](https://img.shields.io/badge/%E2%96%B6%20Obstacle%20Race-800080?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/shorts/orExwwO6-ZA?feature=share)
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/voltzee_wro?igsh=MWpzdmJveDAxamh4ZA%3D%3D&utm_source=qr)[![Instagram](https://img.shields.io/badge/%E2%96%B6%20Instagram-800080?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/voltzee_wro?igsh=MWpzdmJveDAxamh4ZA%3D%3D&utm_source=qr)
-
-[![WRO](https://img.shields.io/badge/WRO-000000?style=for-the-badge&logoColor=white)](https://wro-association.org/)
+[![Instagram](https://img.shields.io/badge/%E2%96%B6%20Instagram-800080?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/voltzee_wro?igsh=MWpzdmJveDAxamh4ZA%3D%3D&utm_source=qr)
 [![Future Engineers](https://img.shields.io/badge/Future%20Engineers-800080?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://wro-association.org/wp-content/uploads/WRO-2025-Future-Engineers-Self-Driving-Cars-General-Rules.pdf)
 
 
