@@ -189,8 +189,7 @@ This fusion allowed robot to:
   </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/Volt-Zee/WRO-Future-Engineer_volt-Zee/main/t-photos/professional%20photo.jpeg" alt="Professional team photo" width="800">
-<img src="https://raw.githubusercontent.com/Volt-Zee/WRO-Future-Engineer_volt-Zee/main/t-photos/Funny%20photo.jpeg" alt="Funny team photo" width="700">
+
 
 ---
 
